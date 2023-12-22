@@ -1,0 +1,29 @@
+[
+    {
+        "CardNumber": "4979936692080579",
+        "Address": "31 rue de la Rpublique",
+        "Country": "FRANCE",
+        "MoneyRange": "$4731",
+        "CVV": 851,
+        "Expiry": "1029",
+        "Pin": 6830
+    },
+    {
+        "CardNumber": "4793012105303539",
+        "Address": "5 rue Descartes",
+        "Country": "FRANCE",
+        "MoneyRange": "$4134",
+        "CVV": 610,
+        "Expiry": "1122",
+        "Pin": 5629
+    },
+    {
+        "CardNumber": "4979933748409951",
+        "Address": "60 place Stanislas",
+        "Country": "FRANCE",
+        "MoneyRange": "$4021",
+        "CVV": 542,
+        "Expiry": "1026",
+        "Pin": 4646
+    }
+]
